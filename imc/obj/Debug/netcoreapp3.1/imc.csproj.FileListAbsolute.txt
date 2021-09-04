@@ -1,0 +1,12 @@
+C:\Users\Sergio\teste\imc\imc\bin\Debug\netcoreapp3.1\imc.exe
+C:\Users\Sergio\teste\imc\imc\bin\Debug\netcoreapp3.1\imc.deps.json
+C:\Users\Sergio\teste\imc\imc\bin\Debug\netcoreapp3.1\imc.runtimeconfig.json
+C:\Users\Sergio\teste\imc\imc\bin\Debug\netcoreapp3.1\imc.runtimeconfig.dev.json
+C:\Users\Sergio\teste\imc\imc\bin\Debug\netcoreapp3.1\imc.dll
+C:\Users\Sergio\teste\imc\imc\bin\Debug\netcoreapp3.1\imc.pdb
+C:\Users\Sergio\teste\imc\imc\obj\Debug\netcoreapp3.1\imc.AssemblyInfoInputs.cache
+C:\Users\Sergio\teste\imc\imc\obj\Debug\netcoreapp3.1\imc.AssemblyInfo.cs
+C:\Users\Sergio\teste\imc\imc\obj\Debug\netcoreapp3.1\imc.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\teste\imc\imc\obj\Debug\netcoreapp3.1\imc.dll
+C:\Users\Sergio\teste\imc\imc\obj\Debug\netcoreapp3.1\imc.pdb
+C:\Users\Sergio\teste\imc\imc\obj\Debug\netcoreapp3.1\imc.genruntimeconfig.cache
